@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Excel-Temporärdateien
+~$*
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
